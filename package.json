@@ -1,0 +1,32 @@
+{
+  "name": "fufirka",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "dependencies": {
+    "effector": "^21.8.1",
+    "effector-vue": "^21.1.0",
+    "vue": "^3.0.4",
+    "vue-router": "4"
+  },
+  "devDependencies": {
+    "@types/vue": "^2.0.0",
+    "@typescript-eslint/eslint-plugin": "^4.15.1",
+    "@typescript-eslint/parser": "^4.15.1",
+    "@vitejs/plugin-vue": "^1.1.4",
+    "@vue/compiler-sfc": "^3.0.4",
+    "@vue/eslint-config-typescript": "^7.0.0",
+    "eslint": "^7.20.0",
+    "eslint-config-prettier": "^7.2.0",
+    "eslint-plugin-vue": "^7.6.0",
+    "prettier": "^2.2.1",
+    "sass": "^1.32.6",
+    "stylelint": "^13.11.0",
+    "stylelint-config-sass-guidelines": "^8.0.0",
+    "typescript": "^4.1.5",
+    "vite": "^2.0.1"
+  }
+}
